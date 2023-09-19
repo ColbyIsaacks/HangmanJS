@@ -1,0 +1,58 @@
+.frame{
+  margin: auto;
+  border: 5px solid black;
+  /* text-align: center; */
+  width: 15%;
+}
+
+.mysteryWord{
+  text-align: center;
+  margin: auto;
+
+}
+
+.letters{
+  text-align: center;
+  margin: auto;
+}
+
+.reset{
+  text-align: center;
+}
+
+.gameHead{
+  text-align: center;
+  /* margin: auto; */
+  height: 15%;
+}
+
+.topper{
+  text-align: center;
+}
+
+.image{
+  text-align: center;
+}
+
+#topperText{
+  font-size: 50px;
+  font-family: "Copperplate", fantasy;
+  color: red;
+  border: 5px solid black;
+}
+
+#mystery{
+  font-size: 50px;
+}
+
+#reset{
+  margin: auto;
+  margin-top: 25px;
+  background-color: red;
+}
+
+#winner{
+  font-size: 50px;
+  font-family: "Copperplate", fantasy;
+  color: red;
+}
